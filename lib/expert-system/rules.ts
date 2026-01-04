@@ -1,4 +1,4 @@
-//membuat rule based on expert knowledge
+//membuat rules untuk sitem pakar
 export type DamageLevel = "A" | "B" | "C";
 
 export interface Rule {
