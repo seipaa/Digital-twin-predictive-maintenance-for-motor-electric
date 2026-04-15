@@ -4,6 +4,8 @@
 
 Mechasense is a monitoring and predictive maintenance platform for AC motors that integrates IoT sensors, Machine Learning predictions, and Expert System diagnosis.
 
+Demo :  https://youtu.be/BjRDWnmDT9M
+
 ---
 
 ## Features
